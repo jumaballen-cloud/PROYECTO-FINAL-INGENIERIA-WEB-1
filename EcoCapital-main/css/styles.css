@@ -1,9 +1,10 @@
-/* --- Paleta de Colores EcoCapital --- */
+/* --- Paleta de Colores --- */
 :root {
     --color-aire: #3498DB;
     --color-rutas: #27AE60;
     --color-reciclaje: #F1C40F;
     --color-texto: #2C3E50;
+    
 }
 
 /* Opcional: Aplicar color base a todo el cuerpo */
@@ -1666,4 +1667,16 @@ main {
 /* Aseguramos que el contenido principal también se adapte si es necesario */
 .page-rutas, .page-aire, .page-reciclaje, .page-contacto {
     min-height: 100vh; /* Para que el color cubra toda la pantalla */
+}
+
+
+/*pruebas borrar*/
+
+.pruebas {
+    color: #bd0202;
+    
+}
+
+.centro-prueba{
+    text-align: center;
 }
